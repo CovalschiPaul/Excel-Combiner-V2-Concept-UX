@@ -1,2 +1,2 @@
 # Excel-Combiner-V2-Concept-UX
-X redesign concept for a Python data-merging tool turning silent failures and raw error logs into clear, human-readable feedback. Interactive HTML prototype + case study.
+A UX case study reimagining the interface for Excel Combiner, a Python tool that batch-merges Excel files. The original GUI worked but gave no feedback until something failed. This redesign surfaces file status before processing starts, replaces error logs with plain-language fixes, and turns "Done" into an actionable summary. Includes a clickable HTML prototype.
